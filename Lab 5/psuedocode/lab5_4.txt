@@ -1,0 +1,32 @@
+tell the user what that this program produces two random positive integers from 1 to 12, asks the user if they want new numbers; if they don't it calculates the sum of the numbers and displays it alongside the number as a number sentence
+
+
+import the random feature
+
+
+set userAnswer as "yes"
+
+while lowercase(userAnswer) does not equal "no" or "n" do this:
+	set number1 as a random number between 0 and 12
+	set number2 as a random number between 0 and 12
+	set numSentence1 as ""
+	set numSentence2 as ""
+
+	if number2 is the same as number 1 then
+		reset number2 as a random number between 0 and 12
+
+
+	if number1 is larger than number2 then	
+		numSentence1 = str(number2) "+" str(number1) "=" str(number2 + number1)
+		numSentence2 = str(number1) "+" str(number2) "=" str(number1 + number2)
+	else
+		numSentence1 = str(number1) "+" str(number2) "=" str(number1 + number2)
+		numSentence2 = str(number2) "+" str(number1) "=" str(number2 + number1)
+
+	print numSentence1 to the screen
+	print numSentence2 to the screen
+
+	ask the user if they want to change the set of numbers and save as variable userAnswer
+stop while loop
+
+

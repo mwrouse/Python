@@ -1,0 +1,26 @@
+tell the user this program alphabetizes a tuple
+
+create a staff directory tuple that contains: Xavier, Matt, Joey, Jordon, Nick, Cole, Brad
+
+create a blank tuple for the staff directory in alphabetical order
+
+
+while the staff directory tuple is not empty do this:
+	
+	make a variable called firstPos and assign in a value of 0
+	
+	for each element in the staff directory array as variable current do this:
+
+		if the element at index firstPos in the staff directory comes after the element current do this:
+
+			set firstPos equal to current
+	
+	
+	add the element at firstPos in the staff directory tuple to the ordered tuple
+
+	remove the element at firstPos in the staff directory
+
+loop
+
+
+print each element in the new ordered tuple

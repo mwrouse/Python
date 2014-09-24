@@ -1,0 +1,43 @@
+An Episode You Can Refuse
+Phython
+How do you avoid displaying an error?
+try and except
+Overload the computer
+Quit your programming career
+Sell your computer
+1
+Phython uses the try: and except: commands
+Still Phython
+What is a phython file's extension?
+.phython
+.phy
+.py
+.pyth0nCODE
+3
+Phython code files have a .py extension
+Yet Again, Phython
+What is the correct way to print the word "hello"?
+PRINT "hello"
+PRINT("hello")
+print(hello)
+print("hello")
+4
+Correct syntax is print("")
+You Guess It, Phython
+What is the correct import statement for generating random numbers?
+import randomNumbers
+import random
+import numbers
+import random_number_generator
+2
+The module for generating random things is called "random"
+Guess What? Phython
+Who created the Phython language?
+Michael Dawson
+Bill Gates
+Guido Van Rossum
+Monty Phython
+3
+Guido Van Rossum is the original creator of Phython
+
+

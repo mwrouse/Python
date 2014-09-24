@@ -1,0 +1,29 @@
+tell the user the program will have them input three numbers and tell them which is in the middle
+
+get a number from the user and save it as variable firstNumber
+get a number from the user and save it as varibale secondNumber
+get a number from the user and save it as varibale thirdNumber
+
+middleNumber = 0
+
+if firstNumber is larger than secondNumber and secondNumber is larger than thirdNumber
+	middleNumber = secondNumber
+
+if thirdNumber is larger than secondNumber and secondNumber is larger than firstNUmber
+	middleNumber = secondNumber
+
+if secondNumber is larger than firstNumber and firstNumber is larger than thirdNumber
+	middleNumber = firstNumber
+
+if thirdNumber is larger than firstNumber and firstNumber is larger than secondNumber
+	middleNumber = firstNumber
+
+if firstNumber is larger than thirdNumber and thirdNumber is larger than secondNumber
+	middleNumber = thirdNumber
+
+if secondNumber is larger than thirdNumber and thirdNumber is larger than firstNumber
+	middleNumber = thirdNumber
+
+print middleNumber to the screen
+
+tell the user that the program has finished

@@ -1,0 +1,12 @@
+tells the user the program will ask for two numbers than print different math answer for the number
+
+get a number from the user and save it as firstNumber
+get a number from the user and save it as secondNumber
+
+print(firstNumber + secondNumber)
+print(firstNumber - secondNumber)
+print(firstNUmber * secondNumber)
+print(firstNumber / secondNumber)
+print(fristNumber % secondNumber)
+
+tell the user the program has finished

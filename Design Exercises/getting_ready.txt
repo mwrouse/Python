@@ -1,0 +1,44 @@
+Wake up
+Eat breakfast
+Take medecine
+Take a shower
+Brush my teeth
+Clean mouth with mouthwash
+Drive to school
+
+
+Function: Eat breakfast
+	Walk into the kitchen
+	Decide what you want to eat
+	Get out what you want to eat
+	Eat the food
+
+Function: Take a shower
+	Turn shower water on
+	Get in shower
+	Wash body with body wash
+	Wash hair with shampoo
+	Turn off shower water
+	Dry off
+
+Function: Brush my teeth
+	Get tooth brush from tooth brush holder thingy
+	Turn on the sink water, wet bristles on tooth brush
+	Turn off water, put toothpaste on the bristles of the tooth brush
+	Brush teeth with tooth brush and toothpaste
+	Turn on water, spit into sink.
+	Turn off water
+	Brush teeth again
+	Turn on water and spit into sink
+	Turn off water
+	Brush teeth again
+	Turn on water to rinse of toothbrush and get a cuppie of water to rinse mouth
+
+
+Function: Clean mouth with mouthwash
+	Poor a little cuppie full of mouthwash
+	Drink from cup
+	Swoosh mouthwash around in mouth.
+	Spit out and rinse mouth with water
+
+

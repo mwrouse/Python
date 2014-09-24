@@ -1,0 +1,4 @@
+Roses are red
+Violets are blue
+Learning Python is fun
+It is really fabu!

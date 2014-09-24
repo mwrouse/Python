@@ -1,0 +1,30 @@
+tell the user that this program will think of a word, tell the user how many letters it is and they user can ask the computer if 5 letters are in it,
+the computer will tell them yes or no. Then they have to guess the word
+
+
+import ability to generate random numbers/choices
+
+set a sequence of words as variable words and include: apple, banana, phython, car, computer, hardware, and train
+
+
+set playagain variable equal to yes
+
+while the playagain variable is equal to yes do this:
+	
+	pick a random word from the words sequence
+
+	tell the user how long the word is
+
+	ask the user to guess a letter, if it is in the word print yes, otherwise print no. Do this 5 times
+
+	tell the user their five guesses are up and they need to guess the word.
+
+	ask the user for a guess
+
+	if the guess does not equal the word then do this:
+		tell the user the guess was incorrect
+		ask the user for another guess
+
+	if the guess was correct then do this:
+		tell the user the guess was correct
+		ask if they want to play again, save input as variable playagain

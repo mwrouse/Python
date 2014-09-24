@@ -1,0 +1,10 @@
+tell the user that the program counts down to 0 from a number the user inputs
+
+get a number from the user and store it as variable userNumber
+
+if userNumber is less than 0 print Error to the screen
+
+do until userNumber is greater than or equal to 0
+	print userNumber to the screen
+	subtract 1 from userNumber
+

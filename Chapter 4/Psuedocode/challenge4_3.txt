@@ -1,0 +1,54 @@
+tell the user this is program will jumble a word and ask the user to guess the word, they can get a hint but will get less points for using a hint
+
+import ability to generate random numbers
+
+
+create a sequence of words the computer can pick from, they are: phython, jumble, easy, difficult, answer, and xylophone
+
+create a sequence of hints the computer uses for each word
+
+
+
+set the play again variable to yes
+
+set the score equal to 0
+
+
+while the play again variable equals yes do this:
+	
+	set a variable that tells the program if the user has used a  hint
+	
+	pick a random number between 0 and 5
+
+	get the word from the word sequence associated with that random number and set is as the variable word
+	
+	get the hint from the hint sequence associated with that random number and set it as the variable hint
+
+	
+	set the variable correct equal to the word variable so program remembers the word the user needs to guess
+
+	pick a rabdom letter from the word, store it in variable jumble and do this for all the letters of the word
+
+	
+	if the score is not equal to zero then display the score beacause the user has played more than once
+
+	display the jumbled word to the screen
+
+	ask the user to make a guess
+
+	if the guess does not equal the variable correct do this:
+		if the guess was blank then
+			tell the user the hint
+		else
+			tell the user the guess was incorrect
+			ask the user to guess again
+
+	if the user is corect 
+		tell the user they got the word correct
+		
+		if the user used a hint then add 1 to score
+		if the user did not use a hin then add 2 to score
+
+	ask the user if they want to play again and save input as variable play again
+		
+	

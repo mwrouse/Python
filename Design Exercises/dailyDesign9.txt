@@ -1,0 +1,20 @@
+                        MATH PROBLEMS
+
+                   Please choose an option
+
+        1. Area of a circle
+        2. Diameter of a circle
+        3. Perimeter of a circle
+        4. Area of a cylinder
+        5. Volume of a cylinder
+        6. Area of a prism
+        7. Volume of a prism
+        8. Area of a rectangle
+        9. Perimeter of a rectangle
+       10. Area of a triangle
+       11. Help
+       12. Exit
+
+
+
+Option:

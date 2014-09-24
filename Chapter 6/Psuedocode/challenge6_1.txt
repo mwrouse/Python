@@ -1,0 +1,7 @@
+
+create function for asking a number.
+	the code will ask a question and the user has to input a number that needs
+	to be between a range defined by the programmer or the user if needed to change
+	the function will be able to have a step value to count by
+
+ask for an even number between 0 and 100

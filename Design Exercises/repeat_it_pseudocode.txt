@@ -1,0 +1,2 @@
+def repeat_it(message defined by user, multiplier defined by user):
+	repeat the message the same amount of times as the multiplier

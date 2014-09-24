@@ -1,0 +1,65 @@
+Approach the table.
+
+Once at the table you introduce yourself to the table's occupants
+
+do for every person at the table:
+	ask what they would like to drink
+	write down what they would like to drink
+
+once everyone has their drinks ordered say you'll be back in a minute with the drinks
+
+go make the drinks
+
+bring the drinks back to the table
+
+do for every person at the table
+	if you can't remember what drink they ordered do this:
+		ask them which drink they ordered
+	
+	hand them their drink
+
+Once everyone at the table has their drinks ask if they are ready to order
+
+
+if they are not ready to order do this:
+	
+	leave and come back to the table in a few minutes to see if they are ready to order
+
+
+when they are ready to order do this:
+	for every person at the table do this:
+		ask what they would like to eat
+	
+		if they order a meal: ask them what side they would like
+		if they order a burger: ask them what they would like on the burger
+		
+		if they ask any questions: answer them 
+		
+
+	After everyone has ordered be sure to read them the order back to make
+	sure you got the order correct
+
+	if the order is not correct make the changes they request
+
+	When the order is correct tell them it will be ready shortly
+
+
+	deliver the order to the cooks.
+
+
+When the order is ready to be delivered:
+	take the order to the table
+
+	Do this for every person at the table:
+		if you don't remember what they ordered ask them which one they ordered
+
+		hand each person their meal
+
+
+do this until they are done eating:
+
+	Return to the table once every 10 minutes and ask how the meal is going
+
+	when they look like they are finishing up hand them the check and tell them to have a good day and 
+	to visit again
+

@@ -1,0 +1,22 @@
+tell the user that the program asks for two numbers and tells how many are positive.
+
+get a number from user and save it as firstNumber
+get a number from user and save it as secondNumber
+
+positive = 0
+
+if firstNumber >= 0 then:
+	add 1 to positive
+
+if secondNumber >= 0 then:
+	add 1 to positive
+
+if positive == 2 then:
+	print "Both positive" to the screen
+else if positive == 1 then:
+	print "One positive" to the screen
+else:
+	print "No positives" to the screen
+
+
+tell the user the program has finished

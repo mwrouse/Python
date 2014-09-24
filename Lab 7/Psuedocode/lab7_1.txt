@@ -1,0 +1,18 @@
+tell the user that this program is used by Donald Trump to fire someone
+
+
+create a sequence of 6 employees
+
+create a variable to tell if the user wants to fires someone else(replay) and set it to yes
+
+if the user wants to replay do this:
+	give the list of remaining employees they can fire
+	
+	have the user input the employee id of the person they want to fire
+
+
+	remove the person based on their user id from the employee sequence
+
+	ask if they want to fire someone else and save as variable replay
+
+if the computer has no one else to fire then tell them good job and to fire themselves

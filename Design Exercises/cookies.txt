@@ -1,0 +1,27 @@
+Cookie Salsa:
+	shape: circle
+	size: thick
+	dimensions: an inch in diameter
+	number of chocolate chips: 7
+	soft or hard: soft
+	fluffy or dense: dense
+	crunchy or chewy: chewy
+
+Cookie Delight:
+	shape: oval
+	size: thick
+	dimensions: half an inch in diameter
+	number of chocolate chips: 4
+	soft or hard: soft
+	fluffy or dense: fluffy
+	crunchy or chewy: chewy
+
+Cookie Peorm:
+	shape: square
+	size: thin
+	dimensions: an inch
+	number of chocolate chips: 10
+	soft or hard: soft
+	fluffy or dense: dense
+	crunchy or chewy: chewy
+	

@@ -1,0 +1,15 @@
+tell the user the program will have them input two numbers and tell them which is larger
+
+get a number from the user and save it as variable firstNumber
+get a number from the user and save it as varibale secondNumber
+
+if firstNumber is larger than secondNumber:
+	tell the user that firstNumber is larger
+
+else if secondNumber is larger than firstNumber:
+	tell the user that secondNumber is larger
+
+else:
+	tell the user that the numbers are the same value
+
+tell the user that the program has finished

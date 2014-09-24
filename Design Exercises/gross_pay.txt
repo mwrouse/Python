@@ -1,0 +1,16 @@
+function gross_pay(hourlyRate, hoursWorked)
+
+	if hoursWorked <= 40 then do this:
+		
+		pay = hourlyRate * hoursWorked
+
+	else do this:
+		
+		hoursWorked = hoursWorked - 40
+
+		pay = hourlyRate * 40
+	
+		pay = pay + (hourlyRate + (hourlyRate /2)) * hoursWorked
+
+	
+	return pay to the main program

@@ -1,0 +1,15 @@
+import the ability to random
+
+create a computer move function that allows the user to pass variables borad, computer, and human:
+	create a copy of board
+
+	create a tuple of best moves that contain 4, 0, 2, 6, 8, 1, 3, 5, 7
+	
+	if the computer can win then take that move
+
+	if the human can win then block their move
+
+	if nobody can win then pick a move:
+		pick a random best move from the tuple
+		move to that square if it's open
+

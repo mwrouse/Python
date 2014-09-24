@@ -1,0 +1,9 @@
+get_birthday():
+	ask the user which month they were born and save it as variable month
+	ask the user what day they were born on and save it as variable day
+	ask the user which year they were born in and save it as variable year
+
+	make a string called birthday 
+	give the birthday variable the value of month-day-year
+
+	return birthday to the main program

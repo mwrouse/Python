@@ -1,0 +1,21 @@
+tell the user the program will have them input three numbers and tell them which is larger
+
+get a number from the user and save it as variable firstNumber
+get a number from the user and save it as varibale secondNumber
+get a number from the user and save it as varibale thirdNumber
+
+largerNumber = 0
+
+if firstNumber is larger than secondNumber then
+	set largerNumber equal to firstNumber
+else
+	set largerNumber equal to secondNumber
+
+if thirdNumber is larger than largerNumber then:
+	set largerNumber equal to thirdNumber
+
+print largerNumber to the screen
+
+
+
+tell the user that the program has finished

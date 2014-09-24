@@ -1,0 +1,21 @@
+tell the user the program will ask for two numbers then tell how many are even
+
+get a number from user and save it as first
+get a number from user and save it as second
+
+even = 0
+
+if first divided by 2 has a remainder of 0 then:
+	add 1 to even
+
+if second divided by 2 has a remainder of 0 then:
+	add 1 to even
+
+if even == 2 then:
+	tell the user both are even
+elif even == 1 then:
+	tell the user one is even
+else:
+	tell the user none are even
+
+tell the user the program has finished

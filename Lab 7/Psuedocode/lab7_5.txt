@@ -1,0 +1,15 @@
+import the ability to pick random things
+
+create a staff directory with elements: Xavier, Matt, Joey, Jordan, Nick, Cole, Brad
+
+create a car tuple with elements: Ferrari, Corvette, DeLorean, Mercedes, Chevrolet
+
+for each element in the staff array as staffID do this:
+	pick a random car from the car tuple as carPicked
+
+	tell the user that the staff member drove to work and drove the carPicked
+	
+	if the member drove a Ferrari then tell the user they need to be fired because they are making too much money
+
+	if the member drove a Mercedes or Chevrolet then tell the user they need a promotion
+

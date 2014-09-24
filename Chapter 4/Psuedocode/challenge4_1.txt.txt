@@ -1,0 +1,12 @@
+tell the user the program will count for you
+
+ask the user for a starting number
+
+ask the user for an ending number
+
+ask the user for a counting number to count by
+
+
+print each number starting and the starting number and ending at the ending number, count up by the counting number
+
+tell the user the program has finished

@@ -1,0 +1,15 @@
+for every person at the table do this:
+		ask what they would like to eat
+	
+		if they order a meal: ask them what side they would like
+		if they order a burger: ask them what they would like on the burger
+		
+		if they ask any questions: answer them 
+		
+
+	After everyone has ordered be sure to read them the order back to make
+	sure you got the order correct
+
+	if the order is not correct make the changes they request
+
+	When the order is correct tell them it will be ready shortly

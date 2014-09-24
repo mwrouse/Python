@@ -1,0 +1,9 @@
+tell the user what the program does
+
+x = 30
+
+do until x is equal to 1
+	print x to the screen
+	subtract 1 from x
+
+print "BlastOff!" to the screen

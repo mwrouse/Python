@@ -1,0 +1,14 @@
+# program controls robot to another chair
+# Author: Michael Rouse
+
+standup()
+
+chairDetect = sense_object()
+
+while chairDetect = "No":
+	take_step()
+	chairDetect = sense_object()
+
+turn_90(right)
+turn_90(right)
+sit_down()

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{399794ea-3766-4273-8b9d-039743f541c9}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>challenge12_3.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <ItemGroup>
+    <Compile Include="challenge12_3.py" />
+    <Content Include="background.png" />
+    <Content Include="sprites\spawner.png" />
+    <Content Include="sprites\cursor.png" />
+    <Content Include="sprites\paused.png" />
+    <Content Include="sprites\NES - Duck Hunt - General Rips.gif" />
+    <Content Include="sprites\black\duck1.png" />
+    <Content Include="sprites\black\duck7.png" />
+    <Content Include="sprites\black\duck2.png" />
+    <Content Include="sprites\black\duck8.png" />
+    <Content Include="sprites\black\duck3.png" />
+    <Content Include="sprites\black\duck9.png" />
+    <Content Include="sprites\black\duck4.png" />
+    <Content Include="sprites\black\duck10.png" />
+    <Content Include="sprites\black\duck5.png" />
+    <Content Include="sprites\black\duck11.png" />
+    <Content Include="sprites\black\duckDie1.png" />
+    <Content Include="sprites\black\duckDie2.png" />
+    <Content Include="sprites\black\duckDie3.png" />
+    <Content Include="sprites\black\duck6.png" />
+    <Content Include="sprites\black\duck12.png" />
+    <Content Include="sprites\red\duck1.png" />
+    <Content Include="sprites\red\duck7.png" />
+    <Content Include="sprites\red\duck2.png" />
+    <Content Include="sprites\red\duck8.png" />
+    <Content Include="sprites\red\duck3.png" />
+    <Content Include="sprites\red\duck9.png" />
+    <Content Include="sprites\red\duck4.png" />
+    <Content Include="sprites\red\duck10.png" />
+    <Content Include="sprites\red\duck5.png" />
+    <Content Include="sprites\red\duck11.png" />
+    <Content Include="sprites\red\duckDie1.png" />
+    <Content Include="sprites\red\duckDie2.png" />
+    <Content Include="sprites\red\duckDie3.png" />
+    <Content Include="sprites\red\duck6.png" />
+    <Content Include="sprites\red\duck12.png" />
+    <Content Include="sprites\blue\duck1.png" />
+    <Content Include="sprites\blue\duck2.png" />
+    <Content Include="sprites\blue\duck3.png" />
+    <Content Include="sprites\blue\duck4.png" />
+    <Content Include="sprites\blue\duckDie1.png" />
+    <Content Include="sprites\blue\duckDie3.png" />
+    <Content Include="sprites\blue\duckDie2.png" />
+    <Content Include="sprites\blue\duck7.png" />
+    <Content Include="sprites\blue\duck8.png" />
+    <Content Include="sprites\blue\duck9.png" />
+    <Content Include="sprites\blue\duck10.png" />
+    <Content Include="sprites\blue\duck6.png" />
+    <Content Include="sprites\blue\duck12.png" />
+    <Content Include="sprites\blue\duck5.png" />
+    <Content Include="sprites\blue\duck11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sprites" />
+    <Folder Include="sprites\black" />
+    <Folder Include="sprites\blue" />
+    <Folder Include="sprites\red" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

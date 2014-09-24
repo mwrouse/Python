@@ -1,0 +1,39 @@
+Before moving any cards, designate a location for each pile of suites for a total of four piles
+
+pile1 is for hearts
+pile2 is for clubs
+pile3 is for diamonds
+pile4 is for spades
+
+For every card (52) in the deck do this:
+	Look at the cards suit.
+
+	if the card's suit is hearts then place it face down in pile1
+	if the card's suit is clubs then place it face down in pile2
+	if the card's suit is diamonds place it face down in pile3
+	if the card's suit is spades place it face down in pile4
+
+
+Once all the cards are in their pile do this:
+
+	create a new pile for the finished deck
+	
+	for each pile starting with pile1 and ending with pile4 do this:
+		spread the deck out so you can see each of the card's face.
+		
+		Pick up the king and place it face down in the new pile.
+		Pick up the 10 and place it face down in that new pile.
+		Pick up the 9 and place it face down in that new pile.
+		Pick up the 8 and place it face down in that new pile.
+		Pick up the 7 and place it face down in that new pile.
+		Pick up the 6 and place it face down in that new pile.
+		Pick up the 5 and place it face down in that new pile.
+		Pick up the 4 and place it face down in that new pile.
+		Pick up the 3 and place it face down in that new pile.
+		Pick up the 2 and place it face down in that new pile.
+		Pick up the ace and place it face down in that new pile.
+
+
+
+		
+					

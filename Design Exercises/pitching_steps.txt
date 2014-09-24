@@ -1,0 +1,11 @@
+Batter walks up to plate
+Pitcher looks at the batter's stance
+Pitcher analyzes the player
+Pitcher looks at the catcher
+Pitcher reads catcher's hand signals
+If the pitcher dislikes the signal he will shake his head
+If the pitcher approves the signal he will nod his head
+Pitcher winds up to throw the ball
+Pitcher steps through motions to pitch the ball
+Pitcher releases the ball
+Pitcher follow throughs with the pitch

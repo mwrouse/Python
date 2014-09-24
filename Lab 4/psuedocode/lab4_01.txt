@@ -1,0 +1,16 @@
+tell the user what the program does
+playAgain = yes
+
+do while user wants to playAgain
+
+	get number from user and save as variable userNumber
+
+	if number is divisible by 2 and a remainder of 0:
+    		tell user the number is even
+	else:
+    		tell the user the number is odd
+
+	ask if user wants to play again
+
+
+tell user the program has finished

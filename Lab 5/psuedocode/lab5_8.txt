@@ -1,0 +1,59 @@
+tell the user what that this program produces two random positive integers from 1 to 12, asks the user if they want new numbers; if they don't it calculates the sum of the numbers and displays it alongside the number as a number sentence, asks the user for the answer to each number sentence
+and tells the user if the answer was correct or not. Adds the number of correct answers and tells the user how many they got right at the end
+
+
+import the random feature
+set counter as 1
+set correct as 0
+set wrong as 0
+
+set userAnswer as "no"
+
+while lowercase(userAnswer) does not equal "no" or "n" do this:
+	set number1 as a random number between 0 and 12
+	set number2 as a random number between 0 and 12
+	set numSentence1 as ""
+	set numSentence2 as ""
+
+	if number2 is the same as number 1 then
+		reset number2 as a random number between 0 and 12
+
+	if number1 is larger than number2 then	
+		numSentence1 = str(number2) "+" str(number1) "="
+		numSentence2 = str(number1) "+" str(number2) "="
+	else
+		numSentence1 = str(number1) "+" str(number2) "="
+		numSentence2 = str(number2) "+" str(number1) "="
+	
+	answer = number1 + number2
+
+	
+	if counter divided by 2 = 0 then
+		ask the user to input the answer for numSentence1 as variable answer1
+	else
+		ask the user to input the answer for numSentence2 as variable answer1
+
+
+	if answer1 is the same as answer then
+		tell the user "Correct! Good Job!"
+		add 1 to correct
+	else
+		tell the user "Sorry, the answer was actually numSent2Ans
+		add 1 to wrong
+
+	
+	add 1 to counter
+
+	ask the user if they want to change the set of numbers and save as variable userAnswer
+
+stop while loop
+
+tell the user how many they got correct (variable correct)
+tell the user how many they got incorrect (variable wrong)
+
+
+
+
+
+
+

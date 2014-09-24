@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{a5c55975-1876-4737-9c2b-5780da6ac971}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>challenge12_2.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <IsWindowsApplication>False</IsWindowsApplication>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <ItemGroup>
+    <Content Include="background.png" />
+    <Compile Include="challenge12_2.py" />
+    <Content Include="Sprites\blank.png" />
+    <Content Include="Sprites\green.png" />
+    <Content Include="Sprites\blue.png" />
+    <Content Include="Sprites\red.png" />
+    <Content Include="Sprites\yellow.png" />
+    <Content Include="Sprites\yellow1.png" />
+    <Content Include="Sprites\green1.png" />
+    <Content Include="Sprites\blue1.png" />
+    <Content Include="Sprites\red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Sprites" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
+</Project>

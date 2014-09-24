@@ -1,0 +1,11 @@
+tell the user the program will print a message they type in backwards
+
+
+
+ask the user for a message
+
+
+add each letter in the user message to a new string starting with the last and ending with the first letter
+
+
+print the new string

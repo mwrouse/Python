@@ -1,0 +1,24 @@
+import the ability for random 
+
+create function for asking a number.
+	the code will ask a question and the user has to input a number that needs
+	to be between a range defined by the programmer or the user if needed to change
+	the function will be able to have a step value to count by
+
+tell the user the game requires them to guess a number between 1 and 100 in the least
+attempts as possible
+
+set a low variable to 1
+set a high variable to 100
+
+generate a random number between the low variable and the high variable, save as variable the_number
+
+do this until the user's guess is the same as the_number:
+	
+	ask the user for a number using the ask_number function and save it as variable guess
+	
+	if guess is higher than the_number tell the user it's too high
+	if guess is lower than the_number tell the user it's too low
+
+
+when guess is equal to the number tell the user they guessed correctly

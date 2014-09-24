@@ -1,0 +1,17 @@
+tell the user what that this program produces two random positive integers from 1 to 12 and prints them in numerical order and then in reverse numerical
+
+import the random feature
+
+set number1 as a random number between 0 and 12
+set number2 as a random number between 0 and 12
+
+if number2 is the same as number 1 then
+	reset number2 as a random number between 0 and 12
+
+
+if number1 is larger than number2 then	
+	print number2, number1 to the screen
+	print number1, number2 to the screen
+else
+	print number1, number2 to the screen
+	print number2, number1 to the screen

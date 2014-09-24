@@ -1,0 +1,32 @@
+tell the user that this program picks a random car from a tuple and tells you the speeding fine
+
+
+import the ability to choose random things/numbers
+
+set the cars tuple equal to: Ferrari, Corvette, DeLorean, Mercedes, Chevrolet
+
+
+set a variable for the fine total equal to 0
+
+create a blank tuple for the cars picked as variable carsPicked
+
+
+repeat this 5 times:
+	get the user to press the enter key to continue
+
+	pick a random car from the CARS tuple
+
+	tell the user what car they picked
+
+	add the car to the carsPicked tuple
+
+	remove the car from the cars tuple
+
+end loop
+
+tell the user each car they picked and the assigned fine value
+
+
+tell the user their total fine value
+
+

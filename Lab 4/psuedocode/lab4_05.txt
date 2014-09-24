@@ -1,0 +1,7 @@
+tell the user the program will convert their sentence to all uppercase
+
+get sentence from user and save it as variable userSentence
+
+convert userSentence to uppercase
+
+print userSentence
